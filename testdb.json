@@ -1,0 +1,25 @@
+{
+  "luxuryWatches": [
+    {
+      "brand": "Rolex",
+      "model": "Submariner",
+      "price": 10000,
+      "material": "Stainless Steel",
+      "movement": "Automatic"
+    },
+    {
+      "brand": "Patek Philippe",
+      "model": "Nautilus",
+      "price": 30000,
+      "material": "Rose Gold",
+      "movement": "Automatic"
+    },
+    {
+      "brand": "Audemars Piguet",
+      "model": "Royal Oak",
+      "price": 25000,
+      "material": "Titanium",
+      "movement": "Automatic"
+    }
+  ]
+}
